@@ -8,8 +8,8 @@
 
 
 <h3 align="left">Connect with me:</h3> 
-📫 How to reach me https://www.linkedin.com/in/john-eric-castro/ 
-<a href="mailto:ericcastro.work@gmail.com">ericcastro.work@gmail.com</a>
+<p📫 How to reach me https://www.linkedin.com/in/john-eric-castro/ 
+<a href="mailto:ericcastro.work@gmail.com">ericcastro.work@gmail.com</a>/p>
 <p align="left">
 </p>
 
