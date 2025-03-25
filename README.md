@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericcastro21" alt="ericcastro21" /></a> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/john-eric-castro/**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3> - 📫 How to reach me **https://www.linkedin.com/in/john-eric-castro/**
 <p align="left">
 </p>
 
