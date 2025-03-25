@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p>LinkedIn: https://www.linkedin.com/in/john-eric-castro/</p>
-<p>Gmail:<a href="mailto:ericcastro.work@gmail.com">ericcastro.work@gmail.com</a></p>
+<h3 align="left">Contact me:</h3> 
+<p>Gmail: <a href="mailto:ericcastro.work@gmail.com">ericcastro.work@gmail.com</a></p>
 <p align="left">
 </p>
 
