@@ -9,7 +9,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3> - 📫 How to reach me **https://www.linkedin.com/in/john-eric-castro/**
+<h3 align="left">Connect with me:</h3> - 📫 How to reach me https://www.linkedin.com/in/john-eric-castro/
 <p align="left">
 </p>
 
