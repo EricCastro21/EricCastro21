@@ -5,12 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=ericcastro21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ericcastro21&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-    </a>
-</p>
-
 ## 🌐 Connect with Me
 - **LinkedIn:** [John Eric Castro](https://www.linkedin.com/in/john-eric-castro/)
 - **Email:** [ericcastro.work@gmail.com](mailto:ericcastro.work@gmail.com)
